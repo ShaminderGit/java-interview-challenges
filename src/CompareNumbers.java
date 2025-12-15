@@ -5,6 +5,7 @@
  * and finally display the largest and smallest number.
  */
 
+import java.sql.SQLOutput;
 import java.util.*;
 
 public class CompareNumbers {
@@ -32,8 +33,9 @@ public class CompareNumbers {
         int smallest = list.get(0);
         int largest = list.get(list.size()-1);
         // Step 6: Display results
-        System.out.println("The smallest number is " + smallest);
-        System.out.println("The largest number is " + largest);
+        System.out.println("Smallest number: " + smallest);
+        System.out.println("Largest number: " + largest);
+
         scan.close();
 
 
