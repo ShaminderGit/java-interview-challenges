@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProgramThree {
+public class ProgramThreeArithmeticOperators {
 
     /*
      Write a program that takes two numbers and perform all

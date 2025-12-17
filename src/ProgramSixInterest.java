@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class ProgramSix {
+public class ProgramSixInterest {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the Principal: ");

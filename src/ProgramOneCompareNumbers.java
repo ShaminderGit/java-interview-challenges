@@ -5,10 +5,9 @@
  * and finally display the largest and smallest number.
  */
 
-import java.sql.SQLOutput;
 import java.util.*;
 
-public class CompareNumbers {
+public class ProgramOneCompareNumbers {
 
     public static void main(String[] args) {
         // Step 1: Ask user how many numbers

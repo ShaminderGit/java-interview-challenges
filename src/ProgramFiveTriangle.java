@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProgramFive {
+public class ProgramFiveTriangle {
     /*
       Write a program to calculate the area and parameter
       of the Triangle.
